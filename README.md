@@ -269,12 +269,12 @@ Summary DB   Medical Reports
 
 | Layer          | Technology                     |
 | -------------- | ------------------------------ |
-| Frontend       | Flutter                        |
+| Frontend       | React, React-Native, Typescript|
 | Backend        | Node.js + Express              |
-| Database       | MongoDB                        |
+| Database       | Supabase                       |
 | Authentication | JWT                            |
 | File Storage   | Object Storage (S3 Compatible) |
-| OCR            | OCR Engine                     |
+| OCR            | Vertex AI                      |
 | AI             | Gemini API                     |
 | QR             | Secure Token-based QR          |
 | Scheduler      | Background Workers / Cron Jobs |
